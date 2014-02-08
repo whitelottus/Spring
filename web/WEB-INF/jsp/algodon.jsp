@@ -12,6 +12,11 @@
         <title>Pagina Algodon</title>
         <link rel="stylesheet" href="../recursos/estilos-cuentas.css">
         <script src="../recursos/JS/js/libs/jquery/jquery.js"></script>
+        <script>
+            $(document).ready(function({
+                
+            })
+        </script>
     </head>
     <body>
         
