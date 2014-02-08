@@ -13,9 +13,9 @@
         <link rel="stylesheet" href="../recursos/estilos-cuentas.css">
         <script src="../recursos/JS/js/libs/jquery/jquery.js"></script>
         <script>
-            $(document).ready(function({
-                
-            })
+            $(document).ready(function(){
+                alert("Se cargo bien jquery");
+            });
         </script>
     </head>
     <body>
